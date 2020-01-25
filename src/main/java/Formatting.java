@@ -2,7 +2,7 @@ public class Formatting {
 
     public static void main (String[] args){
         float f=1.93211f;
-        double d=175.123456;
+        double d=175.12345;
         String str_f = String.format("%.02f", f);
         System.out.println("numarul "+f+" scris cu 2 zecimale "+str_f);
         String str_d= String.format("%.2f", d);
