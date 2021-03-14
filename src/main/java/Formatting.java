@@ -2,7 +2,7 @@ public class Formatting {
 
     public static void main (String[] args){
         /*Formatting - First 2 digits of a floating number
-Using String.format() method, please display in the console the first 2 digits of a floating number (float or double:
+Using String.format() method, please display the first 2 digits of a floating number (float or double:
 e.g. 1.93211 -> display only 1.93)
  */
         float f=1.93211f;
